@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+#Full basic implementation of firebase authentication in react -js 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. use context 
+2. Wrapper
+3. card 
+4. alert
+5. error display 
+
+
+
+Day-3 reactjs project 
+
+
 
 ## Available Scripts
 
